@@ -1,0 +1,26 @@
+*{
+    color: rgb(0, 0, 0);
+}
+body{
+    flex-wrap: wrap;
+    max-width: 100vw;
+    height: 97vh;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Clock_wrapp{
+    padding: 1em;
+    margin: auto;
+    background-color: white;
+    border-radius: 10px;
+    font-size: 56px;
+    width: auto;
+}
+#clock{
+    text-align: center;
+}
+.Date{
+    text-align: center;
+}
